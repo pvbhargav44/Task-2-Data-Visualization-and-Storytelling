@@ -1,0 +1,6 @@
+OrderID,OrderDate,Region,Category,Sub-Category,Sales,Quantity,Profit,CustomerSegment
+CA-2025-1001,2025-01-05,West,Furniture,Chairs,250.50,5,45.00,Consumer
+CA-2025-1002,2025-01-08,East,Office Supplies,Paper,75.00,10,15.00,Corporate
+CA-2025-1003,2025-01-10,Central,Technology,Phones,1200.00,3,300.00,Home Office
+CA-2025-1004,2025-01-15,South,Furniture,Tables,450.00,2,75.00,Consumer
+CA-2025-1005,2025-01-20,West,Office Supplies,Binders,60.00,6,12.00,Corporate
